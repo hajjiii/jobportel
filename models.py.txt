@@ -1,0 +1,5 @@
+class JobModel():
+	name=model.cf()
+	qualification=model.cf()
+	phone=model.cf()
+	
